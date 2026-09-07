@@ -1,0 +1,8 @@
+package JOBSHEET_3;
+
+public class UserDemo {
+    public static void main(String[] args) {
+        User user1 = new User("anisa.nadya", "anisa.nadya@gmail.com");
+        user1.displayInfo();
+    }
+}
