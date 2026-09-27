@@ -1,0 +1,42 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MainDemo",
+      "request": "launch",
+      "mainClass": "JOBSHEET_4.Tugas.MainDemo",
+      "projectName": "PBO_FaridIqbal_f3610654"
+    },
+    {
+      "type": "java",
+      "name": "TesKoperasi",
+      "request": "launch",
+      "mainClass": "JOBSHEET_3.TesKoperasi",
+      "projectName": "PBO_FaridIqbal_f3610654"
+    },
+    {
+      "type": "java",
+      "name": "UserDemo",
+      "request": "launch",
+      "mainClass": "JOBSHEET_3.UserDemo",
+      "projectName": "PBO_FaridIqbal_f3610654"
+    },
+    {
+      "type": "java",
+      "name": "RumahSakitDemo",
+      "request": "launch",
+      "mainClass": "JOBSHEET_4.RumahSakitDemo",
+      "projectName": "PBO_FaridIqbal_f3610654"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
