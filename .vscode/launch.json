@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TugasAbstractDemo",
+      "request": "launch",
+      "mainClass": "JOBSHEET_8.Tugas.TugasAbstractDemo",
+      "projectName": "PBO_FaridIqbal_f3610654"
+    },
+    {
+      "type": "java",
+      "name": "AbstractClassDemo",
+      "request": "launch",
+      "mainClass": "JOBSHEET_8.AbstractClassDemo",
+      "projectName": "PBO_FaridIqbal_f3610654"
+    },
+    {
+      "type": "java",
+      "name": "TugasMain",
+      "request": "launch",
+      "mainClass": "JOBSHEET_7.Tugas.TugasMain",
+      "projectName": "PBO_FaridIqbal_f3610654"
+    },
+    {
+      "type": "java",
+      "name": "InheritanceDemo",
+      "request": "launch",
+      "mainClass": "JOBSHEET_7.InheritanceDemo",
+      "projectName": "PBO_FaridIqbal_f3610654"
+    },
+    {
+      "type": "java",
       "name": "MainDemo",
       "request": "launch",
       "mainClass": "JOBSHEET_4.Tugas.MainDemo",
