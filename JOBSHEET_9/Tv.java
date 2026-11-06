@@ -13,4 +13,8 @@ public class Tv extends AlatElektronik implements Audible {
     public void turunkanVolume() {
         volume = volume - 1;
     }
+
+    public void getInfo() {
+        System.out.println("TV Merk: " + merk + ", Layar: " + jenisLayar + ", Volume: " + volume);
+    }
 }
