@@ -18,7 +18,7 @@ public class Dosen extends Pegawai {
     }
 
     public void mengajar() {
-        System.out.println(nama + " Membuat rencana pembelajaran");
+        System.out.println("Membuat rencana pembelajaran");
         System.out.println("Menyusun materi");
         System.out.println("Melakukan PBM");
         System.out.println("Melakukan evaluasi");
